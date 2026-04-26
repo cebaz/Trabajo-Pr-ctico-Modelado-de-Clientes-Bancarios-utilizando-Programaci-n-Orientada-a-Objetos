@@ -1,3 +1,4 @@
+package Calificaion;
 public enum CalificacionCliente {
     BAJO, MEDIO, ALTO, AVANZADO
 }

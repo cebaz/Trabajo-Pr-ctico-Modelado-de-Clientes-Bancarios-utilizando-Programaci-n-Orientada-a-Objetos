@@ -1,3 +1,4 @@
+package Enums;
 
 public enum Rubro {
     GASTRONOMIA(50),

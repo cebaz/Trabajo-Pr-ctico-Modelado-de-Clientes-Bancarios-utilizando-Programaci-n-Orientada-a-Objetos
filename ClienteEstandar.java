@@ -1,4 +1,8 @@
+
 import java.time.LocalDate;
+
+import Calificaion.CalificacionCliente;
+import Enums.Profesion;
 
 public class ClienteEstandar extends Cliente{
     protected int dni;

@@ -1,4 +1,8 @@
+
 import java.time.LocalDate;
+
+import Calificaion.CalificacionCliente;
+import Enums.BeneficioAdicional;
 
 public class ClientePreferencial extends Cliente{
     protected double limiteCreditoEspecial;

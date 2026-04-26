@@ -1,3 +1,5 @@
+package Enums;
+
 public enum Profesion {
     DESEMPLEADO(10),
     FREELANCER(35),
